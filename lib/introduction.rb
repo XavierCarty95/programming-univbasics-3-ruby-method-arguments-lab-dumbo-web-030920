@@ -5,7 +5,7 @@
 
 
 def greeting(name)
-  "Hello, #{name}"
+  "Hi, my name is #{name}"
 end
 
 
